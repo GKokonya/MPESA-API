@@ -6,7 +6,7 @@
   # define the variales
   # provide the following details, this part is found on your test credentials on the developer account
   $BusinessShortCode = '174379';
-  $Passkey = 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919';  
+  $Passkey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx';  
   
   /*
     This are your info, for
@@ -18,7 +18,7 @@
     for developer/test accounts, this money will be reversed automatically by midnight.
   */
   
-  $PartyA = '254722226666'; // This is your phone number, 
+  $PartyA = '2547xxxxxxxx'; // This is your phone number, 
   $AccountReference = 'cart08';
   $TransactionDesc = 'Cart Payment for online service';
   $Amount = '1';
